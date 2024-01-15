@@ -77,7 +77,7 @@ error_reporting(E_ALL);
         </nav>
     </div>
 
-    <!--Container Main end-->
+    <!--MANETTE-->
 
     <!-- Code to handle the camera angle -->
 <input tabindex="-1" type="radio" name="cam" id="cam1" />
@@ -223,9 +223,6 @@ error_reporting(E_ALL);
             });
         });
     </script>
-
-
-
 
 </body>
 
